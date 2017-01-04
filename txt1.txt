@@ -15,4 +15,7 @@ git branch --list/git branch
 #to check the branch and the list of branch
 git stash
 #to review the backup and save the backup
+git checkout master
+git merge branch
+
 
