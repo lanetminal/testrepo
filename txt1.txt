@@ -3,6 +3,10 @@ git pull origin master
 git merge master
 git add abc.txt
 git commit -m "appropriate message"
+<<<<<<< HEAD
+git push origin team
+=======
+>>>>>>> b9c4b52bf38f3c12eca80476639cb286fe513bfa
 git push origin master
 git fetch origin/master
 #to view the folders
