@@ -16,4 +16,9 @@ git stash
 #to review the backup and save the backup
 git checkout master
 git merge branch
+
+
+
+
+
 #to merge the content of the subbranch to the main branch
